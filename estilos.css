@@ -1,0 +1,20 @@
+
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-image: linear-gradient(160deg, #d98b88 10%, #f4bfc4 24%, #92c5be 49%, #f2e9dd 75%, #b8b7b5 100%);
+}
+h1 {
+  color: #f1efef;
+}
+section {
+  background-image: linear-gradient(160deg, #d98b88 10%, #f4bfc4 24%, #92c5be 49%, #f2e9dd 75%, #b8b7b5 100%);
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  margin-bottom: 20px;
+}
+input, button {
+  margin: 5px;
+  padding: 5px;
+}
